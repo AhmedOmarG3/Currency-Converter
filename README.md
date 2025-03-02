@@ -61,10 +61,7 @@ Instantly see the converted value based on real-time exchange rates.
 
 Flutter (Dart)
 
-Dio for API calls
-
-Provider/Bloc for state management (if used)
-
+Http for API calls
 REST API for fetching live exchange rates
 
 
