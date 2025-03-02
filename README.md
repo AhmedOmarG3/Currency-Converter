@@ -63,9 +63,6 @@ Flutter (Dart)
 
 Http for API calls
 
-REST API for fetching live exchange rates
-
-
 📥 Installation
 
 1. Clone the repo:
